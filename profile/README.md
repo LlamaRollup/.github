@@ -13,7 +13,7 @@
 [![React 19](https://img.shields.io/badge/React-19-61dafb.svg)](https://reactjs.org/)
 
 
-<img src="../images/chatbot.png" alt="LlamaRollup Interface" width="800"/>
+<img src="../images/chatbot2.png" alt="LlamaRollup Interface" width="800"/>
 
 </div>
 
