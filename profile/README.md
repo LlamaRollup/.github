@@ -12,7 +12,6 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![React 19](https://img.shields.io/badge/React-19-61dafb.svg)](https://reactjs.org/)
 
-### 🏆 **Ganador del Primer Lugar en Cochablock Hackathon**
 
 <img src="../images/chatbot.png" alt="LlamaRollup Interface" width="800"/>
 
