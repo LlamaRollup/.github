@@ -1,110 +1,93 @@
-# 🦙 LlamaRollup
-### El Primer Agente de IA Financiero Conversacional en DeFi
+# 💬 HappyHODLers
+### AI-Powered Cryptocurrency Chatbot for Real-Time Market Insights
 
 <div align="center">
 
-![Built with DefiLlama](https://img.shields.io/badge/Built%20with-DefiLlama-00d4aa?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkMxNy41MjI4IDIgMjIgNi40NzcxNSAyMiAxMkMyMiAxNy41MjI4IDE3LjUyMjggMjIgMTIgMjJDNi40NzcxNSAyMiAyIDE3LjUyMjggMiAxMkMyIDYuNDc3MTUgNi40NzcxNSAyIDEyIDJaIiBmaWxsPSIjMDBkNGFhIi8+PC9zdmc+)
-![Deployed on Scroll](https://img.shields.io/badge/Deployed%20on-Scroll%20L2-f8b849?style=for-the-badge&logo=ethereum)
-![AI-Powered](https://img.shields.io/badge/AI-Powered-FF6B6B?style=for-the-badge&logo=openai)
-![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)
+![React](https://img.shields.io/badge/React-18-61dafb?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=for-the-badge&logo=vite)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Pyth Network](https://img.shields.io/badge/Powered%20by-Pyth%20Network-7C3AED?style=for-the-badge)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![React 19](https://img.shields.io/badge/React-19-61dafb.svg)](https://reactjs.org/)
+[![ETH Global](https://img.shields.io/badge/ETH%20Global-Hackathon-orange?logo=ethereum)](https://ethglobal.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://happyhodlers.vercel.app)
 
-
-<img src="../images/chatbot2.png" alt="LlamaRollup Interface" width="800"/>
+*Making cryptocurrency accessible through conversational AI*
 
 </div>
 
 ---
 
-## 🎯 **¿Qué es LlamaRollup?**
+## 🎯 **What is HappyHODLers?**
 
-**TL;DR:** Habla con tu asistente financiero, recibe recomendaciones inteligentes de yield farming basadas en datos reales de DefiLlama, y ejecuta inversiones en Scroll L2 con un solo comando.
+**TL;DR:** Chat naturally with an AI-powered assistant to check crypto prices, compare assets, set intelligent alerts, and manage your portfolio—all powered by Pyth Network's ultra-fast oracle data with 400ms updates.
 
-### 💡 **Problema que Resuelve**
+### 💡 **Problem We Solve**
 
-| Problema Actual | Nuestra Solución |
-|-----------------|------------------|
-| ❌ Yield farming requiere investigación constante en múltiples protocolos | ✅ Conversación natural: *"Encuentra el mejor yield para mis 1000 USDC"* |
-| ❌ Dashboards complejos con curva de aprendizaje alta | ✅ IA analiza +10,000 pools en tiempo real (DefiLlama API) |
-| ❌ Decisiones financieras requieren conocimiento técnico avanzado | ✅ Recomendaciones personalizadas según perfil riesgo/retorno |
-| ❌ Altos costos de gas en mainnet para optimizar yields | ✅ Ejecución automática en Scroll L2 (gas ultra-bajo, ~$0.01) |
-
-### 🌟 **Características Principales**
-
-- 🤖 **Agente de IA Financiero**: Conversa en lenguaje natural y ejecuta estrategias DeFi complejas
-- � **DefiLlama Integration**: Acceso en tiempo real a +10,000 pools de yield farming
-- ⚡ **Scroll L2 Deployment**: Transacciones instantáneas y económicas
-- � **Yield Optimization**: Algoritmo inteligente que balancea APR/APY con nivel de riesgo
-- � **Seguridad Multi-Firma**: Confirmación explícita antes de cada transacción
-- 📈 **Analytics Dashboard**: Visualiza tu portfolio y rendimientos históricos
+| Current Challenge | Our Solution |
+|------------------|--------------|
+| ❌ Complex crypto dashboards require technical knowledge | ✅ Natural conversation: *"What's the price of Bitcoin?"* |
+| ❌ Price data scattered across multiple exchanges | ✅ Unified data from 15+ exchanges via Pyth Network |
+| ❌ Manual price monitoring is time-consuming | ✅ Smart alerts: *"Alert me when ETH reaches $4,000"* |
+| ❌ Delayed price feeds lead to missed opportunities | ✅ Real-time updates every 400ms with confidence intervals |
 
 ---
 
-## 🚀 **Demo Rápido - Conversación Real**
+## 🌟 **Key Features**
 
-### 💬 **Ejemplo de Interacción**
+### 🔮 **Pyth Network Integration**
+- **Ultra-Fast Updates**: Real-time price feeds with 400ms refresh cycles
+- **High Confidence Data**: Aggregated from 15+ premium exchanges
+- **15 Supported Assets**: BTC, ETH, SOL, USDC, USDT, DAI, AVAX, MATIC, ARB, OP, BNB, ADA, DOT, LINK, UNI
+- **Confidence Intervals**: Know the reliability of every price point
 
-```
-👤 Usuario:
-"Quiero invertir 500 USDC de forma segura"
+### 🔔 **Intelligent Price Alerts**
+- **Natural Language Setup**: *"Alert me when BTC reaches $100k"*
+- **Bilingual Support**: Configure alerts in English or Spanish
+- **5-Second Monitoring**: Active alerts checked every 5 seconds
+- **Smart Notifications**: Instant browser alerts when price targets hit
 
-🦙 LlamaRollup:
-"¡Perfecto! Analizando las mejores oportunidades en DeFi...
+### 🤖 **AI-Powered Query Detection**
+- **Pattern Recognition**: Understands price queries in multiple formats
+- **Multi-Language**: Supports English and Spanish naturally
+- **Context Awareness**: Interprets "Bitcoin", "BTC", "btc" all correctly
+- **Smart Comparisons**: *"Compare ETH and SOL prices"*
 
-📊 He encontrado 3 opciones seguras para tus 500 USDC:
+### 🎨 **Professional UI/UX**
+- **Official Crypto Icons**: Integration with CryptoLogos.cc
+- **Responsive Design**: Horizontal PriceCards, comparison views
+- **Real-Time Updates**: Live price changes without page refresh
+- **Dark Mode Ready**: Modern, accessible interface
 
-1. 🥇 Aave V3 en Scroll
-   • APY: 7.8%
-   • TVL: $45M
-   • Riesgo: Bajo ⭐⭐⭐⭐⭐
-   • Gas estimado: $0.02
-   
-2. 🥈 Compound en Arbitrum  
-   • APY: 7.2%
-   • TVL: $120M
-   • Riesgo: Bajo ⭐⭐⭐⭐⭐
-   • Gas estimado: $0.15
-   
-3. 🥉 Yearn Finance en Optimism
-   • APY: 8.5%
-   • TVL: $12M
-   • Riesgo: Medio ⭐⭐⭐⭐
-   • Gas estimado: $0.08
+### 🔐 **Web3 Wallet Integration**
+- **Non-Custodial**: You control your keys, we never touch your funds
+- **RainbowKit + Wagmi**: Industry-standard wallet connection
+- **Multi-Wallet Support**: MetaMask, WalletConnect, Coinbase Wallet, and more
+- **Secure by Design**: All data encrypted, no private key exposure
 
-💡 Recomendación: Aave V3 en Scroll ofrece el mejor balance 
-   riesgo/retorno con gas mínimo.
+---
 
-¿Deseas proceder con el depósito?"
+## 🚀 **Quick Start**
 
-👤 Usuario:
-"Sí, adelante con Aave"
-
-🦙 LlamaRollup:
-"✅ Transacción preparada:
-   • Protocolo: Aave V3 (Scroll)
-   • Monto: 500 USDC
-   • APY estimado: 7.8%
-   • Retorno anual proyectado: ~39 USDC
-   
-🔐 Por favor, confirma en tu wallet..."
-
-[Metamask se abre automáticamente]
-
-🦙 LlamaRollup:
-"� ¡Depósito exitoso!
-
-📝 TX Hash: 0x7d3f...8a2c
-🔗 Ver en Scrollscan
-💰 Comenzarás a generar rendimientos en ~15 segundos
-
-Tu nuevo balance: 500 aUSDC (generando interés en tiempo real)"
+### Prerequisites
+```bash
+Node.js >= 18.0.0
+npm >= 9.0.0
+Git
 ```
 
-### 🎥 **Video Demo**
-[![LlamaRollup Demo](https://img.youtube.com/vi/DEMO_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=DEMO_VIDEO_ID)
+### Installation (3 Steps)
+
+**1️⃣ Clone & Install**
+```bash
+git clone https://github.com/HappyHODLers/happyhodlers.git
+cd happyhodlers
+npm install
+```
+
+### **Demo**
+(https://hodlers-weld.vercel.app/)
 
 ---
 
